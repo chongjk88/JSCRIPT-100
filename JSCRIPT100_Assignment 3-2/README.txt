@@ -1,18 +1,13 @@
 // *********************************************
 // **    Code Author: Jun Kim
-// **    Date: 10/24/17
+// **    Date: 10/28/17
 // **    Description: 
-// **	- Create a loop that counts from 0 to 100 by 5.  
-// **	- E.g. 0, 5, 10, ... 100.
-// **	- Display the numbers in the console.
-// **	- Think about:
-// **		What is the initial value of the variable you're using to count?
-// **		What conditional expression do you need to use to get the right results?
-// **		Is there another way to write the conditional expression and have the code work?
+// **	- Create a section of code to find the highest temperature during the week.
+// **	- Create a section of code to find all the days of the week that hit the high temperature of the week. Display the names of the week (e.g. "Sunday", etc.)
 // **
 // *********************************************
 // **    Change Log
-// **    10/24/17- Created loop that counds from 0 to 100 by 5. *Displays in the console.
+// **    10/28/17- Created results that show the highest temperature of the week and the days with the highest temperature.
 // **    
 // **    
 // *********************************************
